@@ -1,4 +1,4 @@
 # TSA-Coding
 Coding problems and solutions to TSA coding!
 
-**ANY AND ALL CODE HERE IS FOR REFERENCE ONLY, WHATEVER THE END USER DECIDES TO DO WITH DOWNLOADED FILES HAS NO EFFECT ON THE CREATOR**
+Study cards are provided here too! Taken from (Quizlet)[https://quizlet.com/]
